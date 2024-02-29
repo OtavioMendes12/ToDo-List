@@ -1,0 +1,38 @@
+.Footer {
+  position: relative;
+  min-height: 20vh;
+  background-color: #131314;
+  padding: 2rem;
+}
+
+.footercontainer {
+  justify-content: center;
+  align-items: center;
+}
+
+.footercontainer h1 {
+  font-size: 20px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 4.5px;
+  margin-top: 0.5rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons .icon {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1.5rem;
+  cursor: pointer;
+  color: #fff;
+}
+
+.icons .icon:hover {
+  color: rgb(65, 122, 255);
+}
