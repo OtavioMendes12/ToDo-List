@@ -1,4 +1,4 @@
-# Todo List [![My Skills](https://skillicons.dev/icons?i=twitter,spring)](https://skillicons.dev)  
+# Todo List 
 
 <p>Backend do Todo List, usando arquitetura de microsservicos com Spring.</p>
 <p>O <b>frontend</b> está sendo feito em React !</p>
